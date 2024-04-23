@@ -10,10 +10,9 @@ function PlanCard({
 }) {
   return (
     <div
-      className={`w-full min-w-[22rem] rounded-lg text-center font-bold ${
-        name === "Professional"
-          ? "bg-Gradient px-8 py-14 text-VeryLightGrayishBlue"
-          : "bg-white p-8"
+      className={`relative z-10 w-full min-w-[22rem] rounded-lg bg-white p-8 text-center font-bold ${
+        name === "Professional" &&
+        "z-20 bg-Gradient px-8 py-14 text-VeryLightGrayishBlue"
       }`}
     >
       <h2 className="mb-[1.625rem] text-lg">{name}</h2>
