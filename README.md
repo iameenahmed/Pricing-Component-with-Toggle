@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/pricing-component-with-toggle](https://www.frontendmentor.io/solutions/pricing-component-with-toggle)
+- Solution URL: [frontendmentor.io/solutions/pricing-component-with-toggle](https://www.frontendmentor.io/solutions/pricing-component-using-reactjs-KY0JnJvnKk)
 
 ## My process
 
